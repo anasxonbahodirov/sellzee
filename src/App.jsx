@@ -33,6 +33,10 @@ function App() {
             <img src={ipad} alt="Dashboard Image" className="w-full max-w-md"img/>
         </div>
     </section>
+    <main>
+      <h1>Yangi yozuv</h1>
+    </main>
+
 </body>
     </>
   );
