@@ -8,7 +8,6 @@ import amazon from './assets/icons/539f3ffbecad044276726c01-removebg-preview 1.p
 import fedx from './assets/icons/fedx.png'
 import walmart from './assets/icons/walmart.png'
 import rasm from './assets/images/Group 186.png'
-import card from './assets/images/Rectangle 18.png'
 function App() {
   return (
     <>
