@@ -8,6 +8,7 @@ import amazon from './assets/icons/539f3ffbecad044276726c01-removebg-preview 1.p
 import fedx from './assets/icons/fedx.png'
 import walmart from './assets/icons/walmart.png'
 import rasm from './assets/images/Group 186.png'
+import card from './assets/images/Rectangle 18.png'
 function App() {
   return (
     <>
@@ -137,6 +138,45 @@ function App() {
           </button>
         </div>
       </section>
+      <section class="h-[653px] w-full bg-[url('./assets/images/statisticsSectionBg.png')] bg-cover">
+  <div class="flex item-center justify-center h-full">
+    <div class="flex items-center gap-[30px]">
+      <div class="w-[261px] h-[371px] bg-[url('./assets/images/Rectangle 18.png')] bg-cover flex justify-center pt-[96px]">
+        <div>
+          <p class="font-bold text-[55px] leading-[66px] text-[#1F37FF]">
+            50+
+          </p>
+          <p>Happy Clients</p>
+        </div>
+      </div>
+      <div class="w-[261px] h-[371px] bg-[url('./assets/images/Rectangle 18.png')] bg-cover flex justify-center pt-[96px]">
+        <div>
+          <p class="font-bold text-[55px] leading-[66px] text-[#1F37FF]">
+            50+
+          </p>
+          <p>Happy Clients</p>
+        </div>
+      </div>
+      <div class="w-[261px] h-[371px] bg-[url('./assets/images/Rectangle 18.png')] bg-cover flex justify-center pt-[96px]">
+        <div>
+          <p class="font-bold text-[55px] leading-[66px] text-[#1F37FF]">
+            50+
+          </p>
+          <p>Happy Clients</p>
+        </div>
+      </div>
+      <div class="w-[261px] h-[371px] bg-[url('./assets/images/Rectangle 18.png')] bg-cover flex justify-center pt-[96px]">
+        <div>
+          <p class="font-bold text-[55px] leading-[66px] text-[#1F37FF]">
+            50+
+          </p>
+          <p>Happy Clients</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
     </main>
 </body>
     </>
